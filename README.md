@@ -1,2 +1,2 @@
 # Confusion
-Restaurant menu, project by Coursera
+Restaurant's menu, project by Coursera
